@@ -1,1 +1,1 @@
-Simple CRUD photo project
+Simple CRUD photo project with redux
